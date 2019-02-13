@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5c0a930-a2dc-47b6-8092-00aa9e77877d" name="Default Changelist" comment="go back button">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="social_network@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="social_network@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="social_network@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="social_network: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/view.phtml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+      <find>$_GET</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/view/updateUser.php" />
+        <option value="$PROJECT_DIR$/app/view/update.php" />
+        <option value="$PROJECT_DIR$/app/model/entity/Validator.php" />
+        <option value="$PROJECT_DIR$/app/view/login.phtml" />
+        <option value="$PROJECT_DIR$/app/view/test.php" />
+        <option value="$PROJECT_DIR$/../PHP-Gravatar-master/barcode.php" />
+        <option value="$PROJECT_DIR$/app/view/barcode.php" />
+        <option value="$PROJECT_DIR$/app/model/Session.php" />
+        <option value="$PROJECT_DIR$/app/model/entity/Tag.php" />
+        <option value="$PROJECT_DIR$/app/config.php" />
+        <option value="$PROJECT_DIR$/app/model/entity/Comment.php" />
+        <option value="$PROJECT_DIR$/app/controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/view/registration.phtml" />
+        <option value="$PROJECT_DIR$/app/model/entity/User.php" />
+        <option value="$PROJECT_DIR$/app/model/entity/Post.php" />
+        <option value="$PROJECT_DIR$/script.sql" />
+        <option value="$PROJECT_DIR$/app/view/updateUser.phtml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/console.sql" />
+        <option value="$PROJECT_DIR$/app/controller/AdminController.php" />
+        <option value="$PROJECT_DIR$/app/view/index.phtml" />
+        <option value="$PROJECT_DIR$/app/view/view.phtml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="387" />
+    <option name="y" value="89" />
+    <option name="width" value="647" />
+    <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InchooPHPAkademijaDadatno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InchooPHPAkademijaDadatno" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InchooPHPAkademijaDadatno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InchooPHPAkademijaDadatno" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InchooPHPAkademijaDadatno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InchooPHPAkademijaDadatno" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/functions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5c0a930-a2dc-47b6-8092-00aa9e77877d" name="Default Changelist" comment="" />
+      <created>1549495504519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549495504519</updated>
+      <workItem from="1549495506492" duration="3330000" />
+      <workItem from="1549498875248" duration="7693000" />
+      <workItem from="1549548573399" duration="168000" />
+      <workItem from="1549624683734" duration="11788000" />
+      <workItem from="1549839634079" duration="7436000" />
+      <workItem from="1549879763682" duration="10450000" />
+      <workItem from="1549915404585" duration="1209000" />
+      <workItem from="1549916953141" duration="10922000" />
+      <workItem from="1550014959315" duration="2062000" />
+      <workItem from="1550017855655" duration="33976000" />
+      <workItem from="1550080185520" duration="3312000" />
+      <workItem from="1550085902360" duration="7163000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit exists files">
+      <created>1549495698488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549495698488</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update user path">
+      <created>1549497743862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549497743862</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update user firstname,lastname and email, Request::post">
+      <created>1549506602893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549506602893</updated>
+    </task>
+    <task id="LOCAL-00004" summary="input control with Validator class">
+      <created>1549644478503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549644478517</updated>
+    </task>
+    <task id="LOCAL-00005" summary="input password control">
+      <created>1549646296497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549646296497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="go back button">
+      <created>1549646636117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549646636117</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99488000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1333" height="1025" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24941725" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32924107" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32924107" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.17327118" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit exists files" />
+    <MESSAGE value="update user path" />
+    <MESSAGE value="update user firstname,lastname and email, Request::post" />
+    <MESSAGE value="input control with Validator class" />
+    <MESSAGE value="input password control" />
+    <MESSAGE value="go back button" />
+    <option name="LAST_COMMIT_MESSAGE" value="go back button" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e303c9c3-d7a3-45b0-a050-96f364f39b46/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://e303c9c3-d7a3-45b0-a050-96f364f39b46/schema/social_network/table/comment" />
+    <entry file="file://$PROJECT_DIR$/app/view/layout.phtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://e303c9c3-d7a3-45b0-a050-96f364f39b46/schema/social_network/table/post" />
+    <entry file="das://e303c9c3-d7a3-45b0-a050-96f364f39b46/schema/social_network/table/likes" />
+    <entry file="file://$PROJECT_DIR$/app/controller/UserController.php" />
+    <entry file="das://e303c9c3-d7a3-45b0-a050-96f364f39b46/schema/social_network/table/user" />
+    <entry file="file://$PROJECT_DIR$/app/model/App.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_back_button.patch" />
+    <entry file="file://$PROJECT_DIR$/app/model/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/test.php" />
+    <entry file="file://$PROJECT_DIR$/../PHP-Gravatar-master/barcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/functions/barcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/entity/Tag.php" />
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/tag_post">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/login.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/891b2ef3-25b0-4eaf-8419-d5c793a9dc7b">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>891b2ef3-25b0-4eaf-8419-d5c793a9dc7b</OriginalElement>
+          <nodes>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.report</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.likes</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.comment</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.post</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.tag</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.tag_post</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.user</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7316421895861148" x="439.0" y="395.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.SCHEMA:social_network">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.SCHEMA:social_network</OriginalElement>
+          <nodes>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.commentlikes</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.report</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.likes</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.comment</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.post</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.tag</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.tag_post</node>
+            <node x="" y="">891b2ef3-25b0-4eaf-8419-d5c793a9dc7b.TABLE:social_network.user</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6211849192100538" x="726.0" y="283.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/View.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/commentlikes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/post">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/tag">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/comment">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/reportComment">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="100" column="78" selection-start-line="100" selection-start-column="78" selection-end-line="100" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/report">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/likes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/entity/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/entity/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="121" selection-start-line="34" selection-start-column="121" selection-end-line="34" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/registration.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="105" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/schema/social_network/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/updateUser.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="76" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/entity/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="152" column="35" lean-forward="true" selection-start-line="152" selection-start-column="35" selection-end-line="152" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/891b2ef3-25b0-4eaf-8419-d5c793a9dc7b/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="190" lean-forward="true" selection-start-line="190" selection-end-line="195" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/css/_timespace.css" />
+    <entry file="file://$PROJECT_DIR$/app/view/view.phtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="201" column="21" lean-forward="true" selection-start-line="141" selection-end-line="201" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="329" column="35" selection-start-line="329" selection-start-column="35" selection-end-line="334" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

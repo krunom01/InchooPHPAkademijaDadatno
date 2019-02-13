@@ -1,0 +1,38 @@
+
+
+
+<?=  $message; ?>
+<a href="<?= App::config('url') ?>">
+<button>Go back</button>
+</a>
+<form method="post" action="<?php echo App::config('url') ?>admin/update/
+<?=  Session::getInstance()->getUser()->id ?>" enctype="multipart/form-data">
+
+    <div class="form-group">
+        <label for="firstname">firstname</label>
+        <input type="firstname" name="firstname"
+        value="<?= isset($_POST["firstname"]) ? $_POST["firstname"] : Session::getInstance()->getUser()->firstname ?>">
+
+        <label for="lastname">lastname</label>
+        <input type="lastname" name="lastname"
+               value="<?= isset($_POST["lastname"]) ? $_POST["lastname"] : Session::getInstance()->getUser()->lastname ?>">
+
+        <label for="email">email</label>
+        <input type="text" name="email"
+               value="<?= isset($_POST["email"]) ? $_POST["email"] : Session::getInstance()->getUser()->email ?>">
+        <br>
+        <label for="password">New password</label>
+        <input type="password" name="newpassword" placeholder="min 6 characters">
+
+        <label for="password">Repeat new password</label>
+        <input type="password" name="password">
+
+        <label for="image">set your Image</label>
+        <input type="file" id="image" name="image">
+
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Authorize</button>
+
+</form>
